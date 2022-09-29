@@ -69,7 +69,7 @@ static char c[1024][1024];return!c[i][j]?c[i][j]=!r(999)?r(256):BL((i+r(2))%1024
 By Martin Büttner.
 
 **Here is the code run result**
-![Image](https://github.com/JavaPersuader/CSE110Lab1/edit/vsTest/image.jpg)
+(https://github.com/JavaPersuader/CSE110Lab1/edit/vsTest/image.jpg)
 Also, here is the link
 [Art](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art).
 ## My GitHub
