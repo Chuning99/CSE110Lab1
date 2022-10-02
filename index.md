@@ -51,7 +51,13 @@ font size, color, brightness, font rotation, font shading, background color, and
 2. Fluent in English
 
 ## Favorite code
+<<<<<<< HEAD
 	**Here is my favorite code** 
+=======
+
+**Here is my favorite code**
+
+>>>>>>> 57894041f535cb1e7bee934355107e2c79e8fc32
 ```
 unsigned char RD(int i,int j){
 #define r(n)(rand()%n)
@@ -69,7 +75,11 @@ static char c[1024][1024];return!c[i][j]?c[i][j]=!r(999)?r(256):BL((i+r(2))%1024
 By Martin Büttner.
 
 **Here is the code run result**
+<<<<<<< HEAD
 [Image](image.jpg)
+=======
+![This is an image](./image.jpg)
+>>>>>>> 57894041f535cb1e7bee934355107e2c79e8fc32
 Also, here is the link
 [Art](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art).
 ## My GitHub
