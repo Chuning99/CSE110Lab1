@@ -51,13 +51,11 @@ font size, color, brightness, font rotation, font shading, background color, and
 2. Fluent in English
 
 ## Favorite code
-<<<<<<< HEAD
-	**Here is my favorite code** 
-=======
+
+**Here is my favorite code** 
 
 **Here is my favorite code**
 
->>>>>>> 57894041f535cb1e7bee934355107e2c79e8fc32
 ```
 unsigned char RD(int i,int j){
 #define r(n)(rand()%n)
