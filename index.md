@@ -54,8 +54,6 @@ font size, color, brightness, font rotation, font shading, background color, and
 
 **Here is my favorite code** 
 
-**Here is my favorite code**
-
 ```
 unsigned char RD(int i,int j){
 #define r(n)(rand()%n)
