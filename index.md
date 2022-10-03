@@ -77,7 +77,7 @@ Also, here is the link
 ## My GitHub
 Here is my Github [Project](https://github.com/JavaPersuader?tab=repositories).
 
-Here is the README.md [README](./main/README.md)
+Here is the README.md [README](/README.md)
 ## Plan
 - [x] Have one intern
 - [ ] Driving on Route 1
