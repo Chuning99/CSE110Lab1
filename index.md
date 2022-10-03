@@ -76,6 +76,7 @@ Also, here is the link
 [Art](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art).
 ## My GitHub
 Here is my Github [Project](https://github.com/JavaPersuader?tab=repositories).
+Here is the README.md [README](./README.md)
 ## Plan
 - [x] Have one intern
 - [ ] Driving on Route 1
